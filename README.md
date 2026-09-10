@@ -1,2 +1,3 @@
 # A-Flower-SHOP-Project
-basicallyt
+Basically a landing page for a flower shop buisness
+
